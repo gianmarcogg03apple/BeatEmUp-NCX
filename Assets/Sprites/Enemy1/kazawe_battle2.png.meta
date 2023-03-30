@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: e7b13be97ba6440c7ab9168cbbe74d53
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kazawe_battle2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 418
+        width: 58
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce842d3230ee14cf186a6fb63ac17d74
+      internalID: 1500114921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 423
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.30967954, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d905d36a4cf924714832f29465e7a004
+      internalID: 294388527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 422
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.31508154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f7908745c634575ae3031a34528f80
+      internalID: -1948421942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 470
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2415b1f4644e65a75f15f8d765ca3
+      internalID: -1746376807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 424
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3267533, y: 0.000000984438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cbe1ea1d0cc46388c9bd4f6ea19eac
+      internalID: -829845728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 330
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.71009773, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dfa7b5c144646198cc6a35cd6c23d9
+      internalID: -1102460302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 332
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c205bbd2942448f7a0b1b088225dd21
+      internalID: 356109931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 330
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6ad205abe543e2a57f26ed011e9b1
+      internalID: -33469117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 471
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edbf45b443f4b998431490372c31fd
+      internalID: -252794681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 330
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d22f8bca95a46849b8306b72c6781b
+      internalID: 662463632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 423
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.21594238, y: -0.000000984438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b155456ffd42e682fd11e9be4c642
+      internalID: -1854528683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10010925af2f4d36b6219c2f3b33c89
+      internalID: -1578871144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 246
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0.69925195, y: 0.00000040154708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7356bd33a5f840e8afae8a0451249be
+      internalID: 1205632961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 247
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.356788, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be35a69c723c9473392900b64fa8e89f
+      internalID: -546693493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 246
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.36238167, y: 0.00000042385525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a8e5974a924274b7d777c0ff722d4
+      internalID: -794996414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 245
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45547664, y: 0.0000010172527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d99dd4e982747fbbfe1e0a27765b53
+      internalID: -1753142698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kazawe_battle2_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 238
+        width: 23
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53290856, y: 0.16219395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a12199a3aa6455d89a317d5dd452dc
+      internalID: -478824428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kazawe_battle2_0: 1500114921
+      kazawe_battle2_1: 294388527
+      kazawe_battle2_10: -1854528683
+      kazawe_battle2_11: -1578871144
+      kazawe_battle2_12: 1205632961
+      kazawe_battle2_13: -546693493
+      kazawe_battle2_14: -794996414
+      kazawe_battle2_15: -1753142698
+      kazawe_battle2_16: -478824428
+      kazawe_battle2_2: -1948421942
+      kazawe_battle2_3: -1746376807
+      kazawe_battle2_4: -829845728
+      kazawe_battle2_5: -1102460302
+      kazawe_battle2_6: 356109931
+      kazawe_battle2_7: -33469117
+      kazawe_battle2_8: -252794681
+      kazawe_battle2_9: 662463632
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

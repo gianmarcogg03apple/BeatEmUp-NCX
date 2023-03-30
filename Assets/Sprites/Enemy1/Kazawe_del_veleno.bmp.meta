@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 1c3b02d4b95aa4fa299ec06d9d5fe25d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416afe0d10a2c4a07aa772293f4fa420
+      internalID: 1945912029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3db6befcfee4a30ac6d117fc8785a1
+      internalID: 82384016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97676aaf2c3e4f099433bff56674e63
+      internalID: -88617228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758f2530a9ae64ecaa24e9b0c6f5e36a
+      internalID: 2121193543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd95216b67ede4280abb4ab575b50f03
+      internalID: -1630848368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8b1cc70cdf4e9c9b94ace4e3f48c3
+      internalID: -900419276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 224
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250fad8992024f47a93bd8a2b17c699
+      internalID: 2070650317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 224
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356475bf64b3243ebba525bbd9520322
+      internalID: 681701587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79c96a41b18428c92ce8e4525a7ab9
+      internalID: 22949106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 224
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e36a2c492a4d8bbaf029f49ad3a42
+      internalID: -112456459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 23
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8249e48458e48338b40d32baa68702
+      internalID: -1177043839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a3ca0889054c4183c365389418a1f
+      internalID: -981321911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 12
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875170193c524d129157689ea7b3840
+      internalID: 968322988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 192
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352b5e2dadd0474493d96c5a66116e1
+      internalID: -1646192369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e7a74593014055b8c2b218ca78bd9
+      internalID: 701646791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91399774ecddd427485ed76ce405a21b
+      internalID: -400872511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda18727d3b848adb3e4c1d9ef4e986
+      internalID: 1652466322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d2f4fcbca2a422ba6ab94b1538d258
+      internalID: 790904432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 192
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c9779b1bac4c96a907f37e59312ea
+      internalID: -1655893248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa89904de4f84904957c7e075279434
+      internalID: 204513186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 192
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e602c2b6b94ca7b3f375c42e6e547
+      internalID: -176023116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a1e1ec871b244148838c2c3fd2863d
+      internalID: -1874109688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e6b33fc8c634387a63779a3958df58
+      internalID: 1811857260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 72
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f18ec2ac454115964cddf853d61f8
+      internalID: -819981896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455199b9bdad4987b8dd05ad07a1362
+      internalID: 757042927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 160
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d4a22bbf064f96bb5aa92f1eb9d5e
+      internalID: -1110026814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 160
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d200d9389a9149c785c60131b3fe7f3
+      internalID: -447038946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 128
+        width: 12
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d67823e00434e9c91a1678c7e874a2
+      internalID: -1987878886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d57fd1cdad3472eb0708777e2734cf
+      internalID: -36864097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba9296847d1419ebbafde684664bf6
+      internalID: 1834847809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d464c95a02468cb0a7525ce5f615b
+      internalID: -1970561079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4554ad41ecb44acbaaba5b2bdbc8b1
+      internalID: 1222515916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 128
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65de0f460261746629d5d8ee52832abc
+      internalID: 1613353025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 128
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58d6588c7b74ca7a3cc59400db25c3
+      internalID: -2138679794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430daa8ff8284d90b8829cabe9aab21
+      internalID: -586059861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab25882f82e06464b8a25bce0af1d078
+      internalID: -1782486939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 96
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce6b2ea653f451b88756d1601fcf87
+      internalID: -1028407214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f899e23d70904d77b16ea48f10130d7
+      internalID: -1251619885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 96
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95988d08bd4f45d7a6dbca04f08369a
+      internalID: 1397814552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba5908e3b284ebe8a8454c1c0de1f0
+      internalID: 573897102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b812d9f99f48142658878144bd8c5d28
+      internalID: 1624079460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a63b611d6947928b13cc6b2cc37ef
+      internalID: 412508388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e709d85e4f4ac69d38f3c968e1717
+      internalID: 163638762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e70d93839a24b82b43d304c7c539d7
+      internalID: -754988107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d488056f598e413c86f6e753d784c4c
+      internalID: -1548995621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea1a5ffbff844fabd8e85958247d9b
+      internalID: -731332847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bfb11c585fc47ecab7a6de6110a2b8
+      internalID: -459778020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efceff4083fe43e3bcb3beb03fabee3
+      internalID: -1833216020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c82d6dc61334220ace3d41d3b167c1
+      internalID: -195504943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kazawe_del_veleno_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb99ec24a6646cda195d5bebc9f3f9
+      internalID: -2089138550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kazawe_del_veleno_0: 1945912029
+      Kazawe_del_veleno_1: 82384016
+      Kazawe_del_veleno_10: -1177043839
+      Kazawe_del_veleno_11: -981321911
+      Kazawe_del_veleno_12: 968322988
+      Kazawe_del_veleno_13: -1646192369
+      Kazawe_del_veleno_14: 701646791
+      Kazawe_del_veleno_15: -400872511
+      Kazawe_del_veleno_16: 1652466322
+      Kazawe_del_veleno_17: 790904432
+      Kazawe_del_veleno_18: -1655893248
+      Kazawe_del_veleno_19: 204513186
+      Kazawe_del_veleno_2: -88617228
+      Kazawe_del_veleno_20: -176023116
+      Kazawe_del_veleno_21: -1874109688
+      Kazawe_del_veleno_22: 1811857260
+      Kazawe_del_veleno_23: -819981896
+      Kazawe_del_veleno_24: 757042927
+      Kazawe_del_veleno_25: -1110026814
+      Kazawe_del_veleno_26: -447038946
+      Kazawe_del_veleno_27: -1987878886
+      Kazawe_del_veleno_28: -36864097
+      Kazawe_del_veleno_29: 1834847809
+      Kazawe_del_veleno_3: 2121193543
+      Kazawe_del_veleno_30: -1970561079
+      Kazawe_del_veleno_31: 1222515916
+      Kazawe_del_veleno_32: 1613353025
+      Kazawe_del_veleno_33: -2138679794
+      Kazawe_del_veleno_34: -586059861
+      Kazawe_del_veleno_35: -1782486939
+      Kazawe_del_veleno_36: -1028407214
+      Kazawe_del_veleno_37: -1251619885
+      Kazawe_del_veleno_38: 1397814552
+      Kazawe_del_veleno_39: 573897102
+      Kazawe_del_veleno_4: -1630848368
+      Kazawe_del_veleno_40: 1624079460
+      Kazawe_del_veleno_41: 412508388
+      Kazawe_del_veleno_42: 163638762
+      Kazawe_del_veleno_43: -754988107
+      Kazawe_del_veleno_44: -1548995621
+      Kazawe_del_veleno_45: -731332847
+      Kazawe_del_veleno_46: -459778020
+      Kazawe_del_veleno_47: -1833216020
+      Kazawe_del_veleno_48: -195504943
+      Kazawe_del_veleno_49: -2089138550
+      Kazawe_del_veleno_5: -900419276
+      Kazawe_del_veleno_6: 2070650317
+      Kazawe_del_veleno_7: 681701587
+      Kazawe_del_veleno_8: 22949106
+      Kazawe_del_veleno_9: -112456459
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

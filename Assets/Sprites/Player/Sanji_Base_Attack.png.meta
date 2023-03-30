@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: bb0704f9453044c74bc1d994a72fe1b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 430
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49dae1642a6b4e479dc6e343886d17e
+      internalID: 293988709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 430
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a86bb4e46ff477d9441981a68690dc
+      internalID: 561632830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 429
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7390325, y: -0.0000008477105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319937c7eff7494a89a414591a57c2d
+      internalID: 1786665744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 428
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.31645638, y: -0.0000008719308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d430d38c7854c81a04b13b011deea0
+      internalID: -1826076210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 420
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847ba29f8e794e59aaccca61399a8c6
+      internalID: 1078626551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 334
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6958931, y: 0.13765407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f24ff1836374b369513a2dcda7fc7e
+      internalID: -1386160689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 336
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5470142, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777378bbf82a468bb3c846f17028c77
+      internalID: -1964967481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.73657936, y: -0.0000008477105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11101e77b0a04b719b769b0d10eb73c
+      internalID: -605465503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 332
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6780243, y: 0.07180786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b3220e74fc4afd820f3417058c6e6
+      internalID: -2063680058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 335
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5490527, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09dd36dcc714a2ba61a6a8f63a975d
+      internalID: -337831510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.83144605, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc885bf396846949792061238a7eb3
+      internalID: 1860261603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 250
+        width: 21
+        height: 38
+      alignment: 9
+      pivot: {x: 0.42213657, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babad26e8910745c5b6cf8300e450995
+      internalID: 889652614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 249
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0.30940047, y: 0.1677997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec96cc06b86416687a81f70c8af7ac
+      internalID: -847646573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 248
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.74933016, y: -0.000000391251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92045e8a89b4ef1a3b865916a7e9d7
+      internalID: 1802741995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 246
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7363434, y: 0.011254628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d3704e2d6a6472983f3d91bdb71cbd
+      internalID: 439967173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 135
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7138345, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fcfdd9df08f49f8814afd2e4d406f0
+      internalID: 10552137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.7502464, y: 0.029645966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6d33d222de7402fbf3b1657e939560
+      internalID: -1074799083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 143
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5426483, y: 0.23152015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c997b7dc2eb594b6bb60f2ba5a7c84ca
+      internalID: 1124101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 143
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6620642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c76d1d6e6ea94401945178f3777b3e9
+      internalID: 2088876648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3450865, y: -0.012278239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fd95c80c944446da8aeda3fe31ad85
+      internalID: 570127468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67046005, y: 0.0000009536743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866921c1c76704762a5f21f2f0728b58
+      internalID: -1066951103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7525336, y: 0.0000009536743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d95f6a1ae24e53b415599b0fd06b0
+      internalID: -126515307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 54
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.54594624, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13573a2b295b4006bb98c768da315ba
+      internalID: 2135449012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 54
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.31852552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012720aadfe7840bea35f6c1299aef22
+      internalID: 1499541545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanji_Base_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 51
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.64133865, y: 0.0000009536743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da2519d059149d7b275bef70492c34
+      internalID: 512037804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sanji_Base_Attack_0: 293988709
+      Sanji_Base_Attack_1: 561632830
+      Sanji_Base_Attack_10: 1860261603
+      Sanji_Base_Attack_11: 889652614
+      Sanji_Base_Attack_12: -847646573
+      Sanji_Base_Attack_13: 1802741995
+      Sanji_Base_Attack_14: 439967173
+      Sanji_Base_Attack_15: 10552137
+      Sanji_Base_Attack_16: -1074799083
+      Sanji_Base_Attack_17: 1124101004
+      Sanji_Base_Attack_18: 2088876648
+      Sanji_Base_Attack_19: 570127468
+      Sanji_Base_Attack_2: 1786665744
+      Sanji_Base_Attack_20: -1066951103
+      Sanji_Base_Attack_21: -126515307
+      Sanji_Base_Attack_22: 2135449012
+      Sanji_Base_Attack_23: 1499541545
+      Sanji_Base_Attack_24: 512037804
+      Sanji_Base_Attack_3: -1826076210
+      Sanji_Base_Attack_4: 1078626551
+      Sanji_Base_Attack_5: -1386160689
+      Sanji_Base_Attack_6: -1964967481
+      Sanji_Base_Attack_7: -605465503
+      Sanji_Base_Attack_8: -2063680058
+      Sanji_Base_Attack_9: -337831510
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
